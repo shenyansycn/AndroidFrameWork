@@ -1,0 +1,227 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\libs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\workspace.xml
+* AndroidFrameWork.iml
+* ant.properties
+* out\
+* out\production\
+* out\production\AndroidFrameWork\
+* out\production\AndroidFrameWork\org\
+* out\production\AndroidFrameWork\org\android\
+* out\production\AndroidFrameWork\org\android\BuildConfig.class
+* out\production\AndroidFrameWork\org\android\R$attr.class
+* out\production\AndroidFrameWork\org\android\R$drawable.class
+* out\production\AndroidFrameWork\org\android\R$id.class
+* out\production\AndroidFrameWork\org\android\R$layout.class
+* out\production\AndroidFrameWork\org\android\R$string.class
+* out\production\AndroidFrameWork\org\android\R.class
+* out\production\AndroidFrameWork\org\android\framework\
+* out\production\AndroidFrameWork\org\android\framework\activity\
+* out\production\AndroidFrameWork\org\android\framework\activity\BaseActivity.class
+* out\production\AndroidFrameWork\org\android\framework\constants\
+* out\production\AndroidFrameWork\org\android\framework\constants\Constants.class
+* out\production\AndroidFrameWork\org\android\framework\dialog\
+* out\production\AndroidFrameWork\org\android\framework\dialog\MyProgressDialog$MProgressDialog.class
+* out\production\AndroidFrameWork\org\android\framework\dialog\MyProgressDialog.class
+* out\production\AndroidFrameWork\org\android\framework\engine\
+* out\production\AndroidFrameWork\org\android\framework\engine\image\
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$1.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$2.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$3.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$4.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$AsyncTaskResult.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$InternalHandler.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$SerialExecutor$1.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$SerialExecutor.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$Status.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask$WorkerRunnable.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\AsyncTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache$1.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache$Editor$FaultHidingOutputStream.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache$Editor.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache$Entry.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache$Snapshot.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\DiskLruCache.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageCache$1.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageCache$ImageCacheParams.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageCache.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageEngine.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageFetcher.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageResizer.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageWorker$AsyncDrawable.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageWorker$BitmapWorkerTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageWorker$CacheAsyncTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\ImageWorker.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\RecyclingBitmapDrawable.class
+* out\production\AndroidFrameWork\org\android\framework\engine\image\Utils.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\
+* out\production\AndroidFrameWork\org\android\framework\engine\net\BaseTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\JsonEngine.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\JsonTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetConnection.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetErrorCode.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetStyle.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetTaskCallBackInterface.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetUtil$1.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetUtil$2.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\NetUtil.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\XmlEngine.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\XmlTask.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\entity\
+* out\production\AndroidFrameWork\org\android\framework\engine\net\entity\BaseCallBackEntity.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\entity\BaseSendEntity.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\entity\BaseSendWithPageInfoEntity.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\json\
+* out\production\AndroidFrameWork\org\android\framework\engine\net\json\JsonUtils.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\json\UtilDateDeserializer.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\json\UtilDateSerializer.class
+* out\production\AndroidFrameWork\org\android\framework\engine\net\xml\
+* out\production\AndroidFrameWork\org\android\framework\engine\net\xml\XmlAbstractBaseParser.class
+* out\production\AndroidFrameWork\org\android\framework\log\
+* out\production\AndroidFrameWork\org\android\framework\log\LogInfo.class
+* out\production\AndroidFrameWork\org\android\framework\utils\
+* out\production\AndroidFrameWork\org\android\framework\utils\AndroidUtil.class
+* out\production\AndroidFrameWork\org\android\framework\utils\Base64.class
+* out\production\AndroidFrameWork\org\android\framework\utils\ImageUtil.class
+* out\production\AndroidFrameWork\org\android\framework\utils\LoadImageFromSDCard$CallBackInterface.class
+* out\production\AndroidFrameWork\org\android\framework\utils\LoadImageFromSDCard$LoadImage.class
+* out\production\AndroidFrameWork\org\android\framework\utils\LoadImageFromSDCard.class
+* out\production\AndroidFrameWork\org\android\framework\utils\MD5Util_Array.class
+* out\production\AndroidFrameWork\org\android\framework\utils\Md5Util.class
+* out\production\AndroidFrameWork\org\android\framework\utils\StringUtil.class
+* out\production\AndroidFrameWork\org\android\framework\utils\StringValidator.class
+* out\production\AndroidFrameWork\org\android\framework\utils\SystemFileManager.class
+* out\production\AndroidFrameWork\org\android\framework\utils\SystemIdentifierUtil.class
+* out\production\AndroidFrameWork\org\android\framework\utils\TimeUtil.class
+* out\production\AndroidFrameWork\org\android\template\
+* out\production\AndroidFrameWork\org\android\template\fragment\
+* out\production\AndroidFrameWork\org\android\template\fragment\BaseFragment.class
+* out\production\AndroidFrameWork\org\android\template\fragment\BaseFragmentActivity.class
+* out\production\AndroidFrameWork\org\android\widget\
+* out\production\AndroidFrameWork\org\android\widget\BaseWidget.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\HackyViewPager.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\Compat.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\IPhotoView.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoView.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$1.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$2.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$AnimatedZoomRunnable.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$FlingRunnable.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$OnMatrixChangedListener.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$OnPhotoTapListener.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher$OnViewTapListener.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\PhotoViewAttacher.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\SDK16.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\ScrollerProxy$GingerScroller.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\ScrollerProxy$PreGingerScroller.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\ScrollerProxy.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector$CupcakeDetector.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector$EclairDetector.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector$FroyoDetector$1.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector$FroyoDetector.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector$OnGestureListener.class
+* out\production\AndroidFrameWork\org\android\widget\bigpicbyscale\photoview\VersionedGestureDetector.class
+* out\production\AndroidFrameWork\org\android\widget\picker\
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$1.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$2.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$3.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$4.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$5.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$6.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$7.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$8.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$9.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$DateWatcher.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker$InputFilterMinMax.class
+* out\production\AndroidFrameWork\org\android\widget\picker\DatePicker.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$1.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$2.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$3.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$4.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$5.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$6.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$7.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$InputFilterMinMax.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker$TimeWatcher.class
+* out\production\AndroidFrameWork\org\android\widget\picker\TimePicker.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshLinearLayout$OnFooterRefreshListener.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshLinearLayout$OnHeaderRefreshListener.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshLinearLayout.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshRelativeLayout$OnFooterRefreshListener.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshRelativeLayout$OnHeaderRefreshListener.class
+* out\production\AndroidFrameWork\org\android\widget\pulltorefresh\PullToRefreshRelativeLayout.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar => app\libs\ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar
+* libs\weibo_httpmime-4.1.3.jar => app\libs\weibo_httpmime-4.1.3.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\org_widget_pulltorefresh_arrow_up.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\org_widget_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\org_widget_pulltorefresh_arrow.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\org_widget_pulltorefresh_arrow.png"
+    }
+]

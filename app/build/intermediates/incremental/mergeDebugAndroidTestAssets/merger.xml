@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="D:\Dev\Android\WorkSpace\AndroidStudio\Github\AndroidFrameWork\app\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\Dev\Android\WorkSpace\AndroidStudio\Github\AndroidFrameWork\app\src\androidTest\assets"/><source path="D:\Dev\Android\WorkSpace\AndroidStudio\Github\AndroidFrameWork\app\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

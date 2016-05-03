@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\org_widget_picker_timepicker.xml",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\org_widget_picker_timepicker.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\org_widget_pulltorefresh_refresh_footer.xml",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\org_widget_pulltorefresh_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\org_widget_pulltorefresh_refresh_header.xml",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\org_widget_pulltorefresh_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\org_widget_picker_datepicker.xml",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\org_widget_picker_datepicker.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main_fragment.xml",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\main_fragment.xml"
+    }
+]

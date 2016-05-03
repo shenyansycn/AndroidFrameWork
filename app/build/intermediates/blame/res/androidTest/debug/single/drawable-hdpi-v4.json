@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_picker_picker_middle.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_picker_picker_middle.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_picker_button_hover.9.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_picker_button_hover.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_pulltorefresh_arrow.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_pulltorefresh_arrow_up.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_picker_picker_bottom.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_picker_picker_bottom.png"
+    },
+    {
+        "merged": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\org_widget_picker_picker_top.png",
+        "source": "D:\\Dev\\Android\\WorkSpace\\AndroidStudio\\Github\\AndroidFrameWork\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\org_widget_picker_picker_top.png"
+    }
+]
